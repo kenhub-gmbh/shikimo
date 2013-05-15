@@ -1,6 +1,8 @@
-# CarrierWave::Daltonize
+# Shikimo (CarrierWave::Daltonize)
 
-Adds [daltonize](http://www.daltonize.org/) processing to carrierwave (using ruby-vips).
+Shikimo (色盲) means colour-blind in Japanese
+
+Adds [daltonize](http://www.daltonize.org/) processing to ruby and carrierwave (using ruby-vips).
 
 [![original](/other/images/ishihara.png)](/other/samples.md)
 Click to see processing samples
