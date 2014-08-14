@@ -1,18 +1,18 @@
 <?xml version="1.0"?>
-<root xmlns="http://www.vips.ecs.soton.ac.uk/nip/7.33.0">
-  <Workspace window_x="341" window_y="68" window_width="1286" window_height="1032" view="WORKSPACE_MODE_REGULAR" scale="1" offset="0" lpane_position="100" lpane_open="false" rpane_position="400" rpane_open="false" local_defs="// private definitions for this workspace&#10;" name="images" caption="Default empty tab" filename="$HOME/GIT/carrierwave-daltonize/other/daltonize.ws">
+<root xmlns="http://www.vips.ecs.soton.ac.uk/nip/7.40.3">
+  <Workspace window_x="1" window_y="28" window_width="1286" window_height="1032" view="WORKSPACE_MODE_REGULAR" scale="1" offset="0" locked="false" lpane_position="100" lpane_open="false" rpane_position="400" rpane_open="false" local_defs="// private definitions for this workspace&#10;" name="images" caption="Default empty tab" filename="$HOME/GIT/shikimo/other/daltonize.ws">
     <Column x="0" y="0" open="true" selected="true" sform="false" next="10" name="A" caption="import">
       <Subcolumn vislevel="3">
         <Row popup="false" name="A1">
           <Rhs vislevel="2" flags="5">
             <iImage image_left="0" image_top="0" image_mag="0" show_status="false" show_paintbox="false" show_convert="false" show_rulers="false" scale="0" offset="0" falsecolour="false" type="true"/>
             <Subcolumn vislevel="0"/>
-            <iText formula="Image_file &quot;$HOME/GIT/carrierwave-daltonize/other/images/macbeth.jpg&quot;"/>
+            <iText formula="Image_file &quot;$HOME/GIT/shikimo/other/images/macbeth.jpg&quot;"/>
           </Rhs>
         </Row>
         <Row popup="false" name="A2">
           <Rhs vislevel="3" flags="7">
-            <iImage image_left="0" image_top="0" image_mag="0" show_status="false" show_paintbox="false" show_convert="false" show_rulers="false" scale="0" offset="0" falsecolour="false" type="true"/>
+            <iImage window_x="1" window_y="28" window_width="750" window_height="750" image_left="350" image_top="301" image_mag="1" show_status="true" show_paintbox="false" show_convert="true" show_rulers="true" scale="1" offset="0" falsecolour="false" type="true"/>
             <Subcolumn vislevel="1">
               <Row name="x">
                 <Rhs vislevel="0" flags="4">
@@ -53,7 +53,7 @@
         </Row>
       </Subcolumn>
     </Column>
-    <Column x="575" y="0" open="true" selected="false" sform="false" next="3" name="F" caption="results">
+    <Column x="483" y="0" open="true" selected="false" sform="false" next="3" name="F" caption="results">
       <Subcolumn vislevel="3">
         <Row popup="false" name="F2">
           <Rhs vislevel="2" flags="5">
@@ -78,7 +78,7 @@
         </Row>
       </Subcolumn>
     </Column>
-    <Column x="1348" y="0" open="true" selected="false" sform="false" next="5" name="H" caption="as a grid">
+    <Column x="1258" y="0" open="true" selected="false" sform="false" next="5" name="H" caption="as a grid">
       <Subcolumn vislevel="3">
         <Row popup="false" name="H1">
           <Rhs vislevel="2" flags="4">
@@ -87,7 +87,7 @@
         </Row>
         <Row popup="false" name="H4">
           <Rhs vislevel="3" flags="7">
-            <iImage window_x="472" window_y="119" window_width="968" window_height="945" image_left="954" image_top="870" image_mag="-2" show_status="true" show_paintbox="false" show_convert="false" show_rulers="false" scale="1" offset="0" falsecolour="false" type="true"/>
+            <iImage window_x="601" window_y="330" window_width="968" window_height="945" image_left="970" image_top="854" image_mag="-2" show_status="true" show_paintbox="false" show_convert="false" show_rulers="false" scale="1" offset="0" falsecolour="false" type="true"/>
             <Subcolumn vislevel="1">
               <Row name="x">
                 <Rhs vislevel="0" flags="4">
@@ -159,7 +159,7 @@
         </Row>
       </Subcolumn>
     </Column>
-    <Column x="873" y="0" open="true" selected="false" sform="false" next="2" name="I" caption="export">
+    <Column x="781" y="0" open="true" selected="false" sform="false" next="2" name="I" caption="export">
       <Subcolumn vislevel="3">
         <Row popup="false" name="I1">
           <Rhs vislevel="3" flags="7">
@@ -185,7 +185,7 @@
       </Subcolumn>
     </Column>
   </Workspace>
-  <Workspace window_x="341" window_y="68" window_width="1286" window_height="1032" view="WORKSPACE_MODE_REGULAR" scale="1" offset="0" lpane_position="100" lpane_open="false" rpane_position="400" rpane_open="false" local_defs="// private definitions for this workspace&#10;" name="deuteranope" caption="Default empty tab" filename="$HOME/GIT/carrierwave-daltonize/other/daltonize.ws">
+  <Workspace window_x="1" window_y="28" window_width="1286" window_height="1032" view="WORKSPACE_MODE_REGULAR" scale="1" offset="0" locked="false" lpane_position="100" lpane_open="false" rpane_position="400" rpane_open="false" local_defs="// private definitions for this workspace&#10;" name="deuteranope" caption="Default empty tab" filename="$HOME/GIT/shikimo/other/daltonize.ws">
     <Column x="0" y="365" open="true" selected="true" sform="false" next="14" name="B" caption="simulate colourblindness">
       <Subcolumn vislevel="3">
         <Row popup="false" name="B2">
@@ -286,7 +286,7 @@
           <Rhs vislevel="2" flags="5">
             <iImage window_x="0" window_y="29" window_width="1019" window_height="843" image_left="492" image_top="356" image_mag="1" show_status="true" show_paintbox="false" show_convert="true" show_rulers="true" scale="20" offset="0" falsecolour="false" type="true"/>
             <Subcolumn vislevel="0"/>
-            <iText formula="C2 - C1"/>
+            <iText formula="C1 - C2"/>
           </Rhs>
         </Row>
         <Row popup="false" name="C4">
@@ -318,7 +318,7 @@
         </Row>
         <Row popup="false" name="C5">
           <Rhs vislevel="2" flags="5">
-            <iImage window_x="246" window_y="429" window_width="948" window_height="853" image_left="457" image_top="361" image_mag="1" show_status="true" show_paintbox="false" show_convert="true" show_rulers="true" scale="1" offset="0" falsecolour="false" type="true"/>
+            <iImage window_x="246" window_y="318" window_width="948" window_height="853" image_left="533" image_top="361" image_mag="1" show_status="true" show_paintbox="false" show_convert="true" show_rulers="true" scale="1" offset="0" falsecolour="false" type="true"/>
             <Subcolumn vislevel="0"/>
             <iText formula="C1 + C4"/>
           </Rhs>
@@ -393,7 +393,7 @@
       </Subcolumn>
     </Column>
   </Workspace>
-  <Workspace window_x="341" window_y="68" window_width="1286" window_height="1032" view="WORKSPACE_MODE_REGULAR" scale="1" offset="0" lpane_position="100" lpane_open="false" rpane_position="400" rpane_open="false" local_defs="// private definitions for this workspace&#10;" name="protanope" caption="Default empty tab" filename="$HOME/GIT/carrierwave-daltonize/other/daltonize.ws">
+  <Workspace window_x="1" window_y="28" window_width="1286" window_height="1032" view="WORKSPACE_MODE_REGULAR" scale="1" offset="0" locked="false" lpane_position="100" lpane_open="false" rpane_position="400" rpane_open="false" local_defs="// private definitions for this workspace&#10;" name="protanope" caption="Default empty tab" filename="$HOME/GIT/shikimo/other/daltonize.ws">
     <Column x="0" y="365" open="true" selected="true" sform="false" next="10" name="B" caption="simulate colourblindness">
       <Subcolumn vislevel="3">
         <Row popup="false" name="B2">
@@ -494,7 +494,7 @@
           <Rhs vislevel="2" flags="5">
             <iImage window_x="0" window_y="29" window_width="1019" window_height="843" image_left="492" image_top="356" image_mag="1" show_status="true" show_paintbox="false" show_convert="true" show_rulers="true" scale="20" offset="0" falsecolour="false" type="true"/>
             <Subcolumn vislevel="0"/>
-            <iText formula="C2 - C1"/>
+            <iText formula="C1 - C2"/>
           </Rhs>
         </Row>
         <Row popup="false" name="C4">
@@ -601,7 +601,7 @@
       </Subcolumn>
     </Column>
   </Workspace>
-  <Workspace window_x="341" window_y="68" window_width="1286" window_height="1032" view="WORKSPACE_MODE_REGULAR" scale="1" offset="0" lpane_position="100" lpane_open="false" rpane_position="400" rpane_open="false" local_defs="// private definitions for this workspace&#10;" name="tritanope" caption="Default empty tab" filename="$HOME/GIT/carrierwave-daltonize/other/daltonize.ws">
+  <Workspace window_x="1" window_y="28" window_width="1286" window_height="1032" view="WORKSPACE_MODE_REGULAR" scale="1" offset="0" locked="false" lpane_position="100" lpane_open="false" rpane_position="400" rpane_open="false" local_defs="// private definitions for this workspace&#10;" name="tritanope" caption="Default empty tab" filename="$HOME/GIT/shikimo/other/daltonize.ws">
     <Column x="0" y="365" open="true" selected="true" sform="false" next="10" name="B" caption="simulate colourblindness">
       <Subcolumn vislevel="3">
         <Row popup="false" name="B2">
@@ -702,7 +702,7 @@
           <Rhs vislevel="2" flags="5">
             <iImage window_x="0" window_y="29" window_width="1019" window_height="843" image_left="492" image_top="356" image_mag="1" show_status="true" show_paintbox="false" show_convert="true" show_rulers="true" scale="20" offset="0" falsecolour="false" type="true"/>
             <Subcolumn vislevel="0"/>
-            <iText formula="C2 - C1"/>
+            <iText formula="C1 - C2"/>
           </Rhs>
         </Row>
         <Row popup="false" name="C4">
@@ -810,6 +810,3 @@
     </Column>
   </Workspace>
 </root>
-
-
-

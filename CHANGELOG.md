@@ -1,3 +1,9 @@
+# dev
+
+* update daltonize.ws for latest nip2 [John Cupitt]
+* reverse sign of compensation in daltonize.ws so output exactly matches
+  daltonize.rb [John Cupitt]
+
 # Version 0.0.4
 
 * improve neutral handling [John Cupitt]
